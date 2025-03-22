@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "email": "bryanruiz@gmail.com",
+      "password": "Buenas2123!",
+      "name": "Bryan Ruiz",
+      "phone": "+506 8888-8888",
+      "address": "100 meters north of the National Stadium, San José, Costa Rica"
+    },
+    {
+      "email": "messi@example.com",
+      "password": "messi123",
+      "name": "Password123!",
+      "phone": "+506 7777-7777"
+    },
+    {
+      "email": "ronaldo@example.com",
+      "password": "Password123!",
+      "name": "Cristiano Ronaldo",
+      "phone": "+506 6666-6666",
+      "address": "200 meters east of Multiplaza Escazú, San José, Costa Rica"
+    },
+    {
+      "email": "neymar@example.com",
+      "password": "Hola2123!",
+      "name": "Neymar Jr.",
+      "phone": "+506 8705-5086",
+      "address": "Prueba 2"
+    },
+    {
+      "email": "mbappe@example.com",
+      "password": "Password123!",
+      "name": "Kylian Mbappé",
+      "phone": "+506 4444-4444",
+      "address": "Near Parque La Sabana, San José, Costa Rica"
+    },
+    {
+      "email": "bruyne@example.com",
+      "password": "Password123!",
+      "name": "Kevin De Bruyne",
+      "phone": "+506 3333-3333"
+    },
+    {
+      "email": "hazard@example.com",
+      "password": "Password123!",
+      "name": "Eden Hazard",
+      "phone": "+506 2222-2222",
+      "address": "500 meters west of Plaza del Sol, Curridabat, San José, Costa Rica"
+    },
+    {
+      "email": "sterling@example.com",
+      "password": "Password123!",
+      "name": "Raheem Sterling",
+      "phone": "+506 1111-1111"
+    },
+    {
+      "email": "pogba@example.com",
+      "password": "Password123!",
+      "name": "Paul Pogba",
+      "phone": "+506 9999-9999",
+      "address": "Near Universidad de Costa Rica, San Pedro, San José, Costa Rica"
+    },
+    {
+      "email": "salah@example.com",
+      "password": "Password123!",
+      "name": "Mohamed Salah",
+      "phone": "+506 8765-4321"
+    },
+    {
+      "email": "kante@example.com",
+      "password": "Password123!",
+      "name": "N'Golo Kanté",
+      "phone": "+506 1234-5678",
+      "address": "100 meters south of Estadio Ricardo Saprissa, San Juan de Tibás, San José, Costa Rica"
+    },
+    {
+      "email": "bryancito@gmail.com",
+      "password": "Password123!",
+      "name": "Bryan Ruiz",
+      "phone": "+506 8383-8385",
+      "address": "Yes"
+    },
+    {
+      "email": "danielconejo@ucr.ac.cr",
+      "password": "Hola2123!",
+      "name": "Daniel Conejo",
+      "phone": "+506 5555-3333",
+      "address": "Moravia"
+    },
+    {
+      "email": "barbo@gmail.com",
+      "password": "Hola2123!",
+      "name": "Alejandro Barboza",
+      "phone": "+506 5676-8772",
+      "address": "Heredia"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Public Sans', sans-serif; 
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #15eabc, #d2daff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
